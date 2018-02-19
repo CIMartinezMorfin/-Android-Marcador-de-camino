@@ -1,0 +1,1 @@
+crea a punta de marcas el camino o la ruta que recorre un dispositivo
